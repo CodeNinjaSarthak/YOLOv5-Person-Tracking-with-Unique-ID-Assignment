@@ -31,12 +31,12 @@ Prior to using the YOLOv5 model, the video frames are resized, and data augmenta
 The system was able to successfully track individuals by assigning unique IDs. Below are two sets of videos showing the tracking results:
 
 - **Before the operation:**
-   - [Video 1](#)
-   - [Video 2](#)
+   - [Video 1](output/video.mp4)
+   - [Video 2](output/video-1.mp4)
 
 - **After the operation:**
-   - [Video 1](#)
-   - [Video 2](#)
+   - [Video 1](output/output_video.mp4)
+   - [Video 2](output/output_video-1.mp4)
 
 ## How to Run:
 1. Clone the repository:
